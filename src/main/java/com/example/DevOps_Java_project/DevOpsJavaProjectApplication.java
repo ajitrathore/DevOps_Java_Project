@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevOpsJavaProjectApplication {
 
 	public static void main(String[] args) {
-		System.out.println("HI");
+		System.out.println("Hi There");
 		SpringApplication.run(DevOpsJavaProjectApplication.class, args);
 	}
 
